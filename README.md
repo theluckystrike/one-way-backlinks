@@ -92,7 +92,7 @@ After a minor or major update, this plugin opens one What's new tab in the backg
 | Setting | What it does |
 | --- | --- |
 | Default list | The list that a new pane shows first: One-way or Paired. One-way by default. |
-| Hidden folders | Pro. One folder on each line. Backlinks from these folders and their subfolders do not show. |
+| Hidden folders | Pro. One folder on each line. |
 
 <img src="https://raw.githubusercontent.com/theluckystrike/one-way-backlinks/HEAD/docs/settings.png" alt="The settings tab with Default list, Hidden folders and the Pro section" width="720">
 
@@ -121,6 +121,8 @@ Not in this version. The pane shows links only.
 ## Payment, account and network
 
 The core features are free. Pro features need a GitHub Sponsors sponsorship of theluckystrike: $5 a month or more, or $15 once. A total payment of $15 meets the payment requirement for Pro without further payment. Sign-in and the checks below still apply. Your notes stay readable and editable with or without Pro.
+
+[One payment turns on Pro in every NoteMods plugin](https://notemods.com/pro/).
 
 GitHub handles the payment. Sponsor at https://github.com/sponsors/theluckystrike?frequency=one-time&metadata_source=one-way-backlinks. You need no account for the free features. Pro needs the GitHub account that sponsors.
 
