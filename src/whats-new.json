@@ -1,8 +1,10 @@
 {
 	"id": "one-way-backlinks",
 	"name": "One-way Backlinks",
-	"version": "1.0.0",
-	"changes": [],
+	"version": "1.0.1",
+	"changes": [
+		"The Pro notice of One-way Backlinks now says that one payment turns on Pro in every NoteMods plugin."
+	],
 	"tip": "Select Paired at the top of the pane to see the notes that link here and that this note links to. Hold Ctrl or Cmd over a row to see the page preview.",
 	"thanks": "Hi, I am Michael, a solo developer in Poland. One-way Backlinks is one of over 100 small plugins that I make. Thank you for trusting it with your notes.",
 	"related": [
