@@ -1,6 +1,6 @@
 {
 	"name": "one-way-backlinks",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"private": true,
 	"description": "Lists the backlinks of the current note that the note does not link back to, with a toggle for paired backlinks.",
 	"main": "main.js",
